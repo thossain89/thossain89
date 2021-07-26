@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner project which involves web development and deployment
 - 📫 How to reach me 
 Email: hossaintanvir@live.co.uk or tanvirhossain2006@gmail.com
-Linkedin:www.linkedin.com/in/tanvir-hossain-bb6a7b212
+Linkedin:www.linkedin.com/in/thossain89
 
 
 <!---
