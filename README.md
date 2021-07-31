@@ -30,7 +30,7 @@ Gmail: tanvirhossain2006@gmail.com
 
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <p align="left">
 <a href="https://au.linkedin.com/in/thossain89?trk=profile-badge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanvir Hossain" height="30" width="40" /> My Linked In profile</a>
 
