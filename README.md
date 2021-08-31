@@ -6,7 +6,7 @@ Hi, i'm [Tanvir Hossain](https://thossain89.github.io/Professional_Portfolio/ind
 of Sydney (USYD), where I have developed skills in HTML 5, JavaScript, CSS, Bootstrap,jQuery, Moment.js, Node.js and responsive web design. My strengths include problem solving,
 project management, and agile adaptation to last minute support changes, which makes me an integral member of any team.
 
-  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />  
+  
   
   
 
@@ -21,6 +21,8 @@ project management, and agile adaptation to last minute support changes, which m
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thossain89&show_icons=true&theme=gotham" alt="thossain89" />  
+  
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />  
   
 
 ## Lets Connect !!!
