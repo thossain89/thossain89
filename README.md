@@ -3,7 +3,7 @@
 <br />
 
 Hi, i'm [Tanvir Hossain](https://thossain89.github.io/Professional_Portfolio/index.html), a passionate and solution driven full stack web developer from Sydney, Australia. I have graduated in Electrical and Electronics Engineering and have a Web Development certificate from University
-of Sydney (USYD), where I have developed skills in HTML 5, JavaScript, CSS, Bootstrap,jQuery, Moment.js, Node.js and responsive web design. My strengths include problem solving,
+of Sydney (USYD), where I have developed skills in HTML 5/CSS3, JavaScript, Bootstrap,jQuery, Node.js, Express js, Mysql, Sequelize, MongoDB, Mongoose, React, Restful Api, GraphlQL, PWA, Socket.io  and responsive web design. My strengths include problem solving,
 project management, and agile adaptation to last minute support changes, which makes me an integral member of any team.
 
   
@@ -31,8 +31,7 @@ project management, and agile adaptation to last minute support changes, which m
 Macquarie Fields  
 NSW 2564  
 Mobile: 0404643188  
-Outlook : hossaintanvir@live.co.uk  
-Gmail: tanvirhossain2006@gmail.com  
+email:tanvir@thossain.com 
 
 
 
